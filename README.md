@@ -27,8 +27,8 @@
 - J'héberge mes productions (Compte-rendus, documentations techniques, documentation utilisateurs, ...)
 - j'ajoute des liens vers les applications téléchargeables ou testables en ligne
 #### 4. Pour mon identité numérique
--Cela fait un point d'entrée professionnel à donner lorsque je postule à un emploi ou a une poursuite d'études.
--Cela permettra de me faire référencer par les moteurs de recherches (Là aussi sis on me recherche suite à ma rencontre ou à la réception de mon cv)
+- Cela fait un point d'entrée professionnel à donner lorsque je postule à un emploi ou a une poursuite d'études.
+- Cela permettra de me faire référencer par les moteurs de recherches (Là aussi sis on me recherche suite à ma rencontre ou à la réception de mon cv)
 
 
 
